@@ -3,7 +3,7 @@
 A premium, highly interactive, and responsive personal portfolio website built with a dark cinematic theme, liquid glass aesthetics, and creative user interactions.
 
 ## 🚀 Live Demo & Repository
-*   **LinkedIn Post:** [Share your walkthrough video link]
+*   **LinkedIn Post:** [https://www.linkedin.com/posts/areej-zahra-120357416_frontenddeveloper-reactjs-typescript-ugcPost-7483105994491789312-vru4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGnFSOgBo5CjC2NZTey6_IdXSQncQkD-TqM]
 *   **Repository:** [https://github.com/AreejZahra92/Personal-Portfolio-Website](https://github.com/AreejZahra92/Personal-Portfolio-Website)
 
 ---
